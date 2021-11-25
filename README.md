@@ -4,7 +4,7 @@
 Project #1: Movies
 
 Uses different transactions and recycler view to show movies released in 2020. Also allows you to search for movies on a seperate fragment.
-- Uses:
+Uses:
 -   Model-View-ViewModel (MVVM)
 -   Dependency Injection with Hilt
 -   Retrofit
