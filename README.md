@@ -13,6 +13,7 @@ Uses:
 -   Kotlin
 -   Corontines + Flow
 -   View Binding
+
 Upcoming implementations:
 -   Room
 -   Refresh feature
